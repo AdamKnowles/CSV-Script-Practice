@@ -11,3 +11,5 @@ with open('names.csv', mode='w') as csv_file:
     writer.writerow({'first_name': 'Jeremy', 'last_name': 'Davis', 'email': 'January@january'})
     writer.writerow({'first_name': 'Diana', 'last_name': 'Davis', 'email': 'January@january'})
 
+        
+

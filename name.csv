@@ -1,6 +1,12 @@
-emp_name,dept,birth_month
-John Smith,Accounting,November
-Erica Meyers,IT,March
-Adam Knowles,Nursing,May
-Jeremy Davis,Programming,January
-Diana Davis,Medicine,January
+emp_name,dept,birth_month
+
+John Smith,Accounting,November
+
+Erica Meyers,IT,March
+
+Adam Knowles,Nursing,May
+
+Jeremy Davis,Programming,January
+
+Diana Davis,Medicine,January
+
